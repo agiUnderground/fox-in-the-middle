@@ -12,7 +12,11 @@
   "content_scripts": [
     {
       "matches": ["*://*.google.com/*"],
-      "js": ["foxinthemiddle.js"]
+      "js": ["foxinthemiddle_google.js"]
+    },
+    {
+      "matches": ["*://*.ietf.org/rfc/*"],
+      "js": ["foxinthemiddle_ietf.js"]
     }
   ]
 
