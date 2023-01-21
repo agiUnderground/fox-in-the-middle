@@ -12,19 +12,19 @@
   "content_scripts": [
     {
       "matches": ["*://*.google.com/*"],
-      "js": ["foxinthemiddle_google.js"]
+      "js": ["fox_google.js"]
     },
     {
       "matches": ["*://*.ietf.org/rfc/*"],
-      "js": ["foxinthemiddle_ietf.js"]
+      "js": ["fox_ietf.js"]
     },
     {
       "matches": ["*://*.rfc-editor.org/rfc/*"],
-      "js": ["foxinthemiddle_rfc_editor_org.js"]
+      "js": ["fox_rfc_editor_org.js"]
     },
     {
       "matches": ["*://*.rfc-editor.org/rfc/"],
-      "js": ["foxinthemiddle_rfc_editor_org_root.js"]
+      "js": ["fox_rfc_editor_org_root.js"]
     }
   ]
 
