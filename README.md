@@ -12,9 +12,17 @@
     - then select `manifest.json` in the `fox-in-the-middle` extension directory
 
 
-## Problem it solves:
+## Problem it solves
 ![Comment](assets/images/meme.jpg)
 
-## Currently supported websites:
+## Currently supported websites
 * google.com
 * ietf.org
+
+## Demo
+
+![google_search_1](assets/images/demo_1.png)
+
+![google_search_2](assets/images/demo_2.png)
+
+![IETF](assets/images/demo_3.png)
