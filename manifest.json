@@ -17,6 +17,14 @@
     {
       "matches": ["*://*.ietf.org/rfc/*"],
       "js": ["foxinthemiddle_ietf.js"]
+    },
+    {
+      "matches": ["*://*.rfc-editor.org/rfc/*"],
+      "js": ["foxinthemiddle_rfc_editor_org.js"]
+    },
+    {
+      "matches": ["*://*.rfc-editor.org/rfc/"],
+      "js": ["foxinthemiddle_rfc_editor_org_root.js"]
     }
   ]
 
