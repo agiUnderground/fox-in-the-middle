@@ -18,6 +18,7 @@
 ## Currently supported websites
 * google.com
 * ietf.org
+* rfc-editor.org/rfc/
 
 ## Demo
 
