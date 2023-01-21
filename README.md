@@ -14,3 +14,7 @@
 
 ## Problem it solves:
 ![Comment](assets/images/meme.jpg)
+
+## Currently supported websites:
+* google.com
+* ietf.org
