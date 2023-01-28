@@ -20,6 +20,7 @@
 * ietf.org
 * rfc-editor.org/rfc/
 * lore.kernel.org
+* docs.python.org
 
 ## Demo
 

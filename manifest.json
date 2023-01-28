@@ -3,7 +3,7 @@
   "description": "Center the content of the frequently used web pages.",
   "manifest_version": 2,
   "name": "Fox in the middle",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "homepage_url": "https://github.com/agiUnderground/fox-in-the-middle",
   "icons": {
     "48": "icons/fox-in-the-middle-48.png"
@@ -29,6 +29,10 @@
     {
       "matches": ["*://*.lore.kernel.org/*"],
       "js": ["fox_lore_kernel_org.js"]
+    },
+    {
+      "matches": ["*://*.docs.python.org/*"],
+      "js": ["fox_docs_python_org.js"]
     }
   ]
 
