@@ -19,6 +19,7 @@
 * google.com
 * ietf.org
 * rfc-editor.org/rfc/
+* lore.kernel.org
 
 ## Demo
 
