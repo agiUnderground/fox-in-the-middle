@@ -21,6 +21,7 @@
 * rfc-editor.org/rfc/
 * lore.kernel.org
 * docs.python.org
+* docs.kernel.org
 
 ## Demo
 
