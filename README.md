@@ -22,6 +22,7 @@
 * lore.kernel.org
 * docs.python.org
 * docs.kernel.org
+* man.freebsd.org
 
 ## Demo
 
