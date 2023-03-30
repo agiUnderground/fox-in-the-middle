@@ -23,6 +23,7 @@
 * docs.python.org
 * docs.kernel.org
 * man.freebsd.org
+* linux.die.net/man/
 
 ## Demo
 

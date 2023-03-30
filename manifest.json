@@ -41,6 +41,10 @@
     {
       "matches": ["*://man.freebsd.org/cgi/man.cgi?*"],
       "js": ["fox_man_freebsd_org.js"]
+    },
+    {
+      "matches": ["*://linux.die.net/man/*"],
+      "js": ["fox_die_net.js"]
     }
   ]
 
