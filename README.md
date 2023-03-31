@@ -24,6 +24,7 @@
 * docs.kernel.org
 * man.freebsd.org
 * linux.die.net/man/
+* man7.org/linux/man-pages/
 
 ## Demo
 
