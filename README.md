@@ -17,6 +17,7 @@
 
 ## Currently supported websites
 * google.com
+* duckduckgo.com
 * ietf.org
 * rfc-editor.org/rfc/
 * lore.kernel.org
