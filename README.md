@@ -26,6 +26,7 @@
 * man.freebsd.org
 * linux.die.net/man/
 * man7.org/linux/man-pages/
+* openssh.com/txt/
 
 ## Demo
 
