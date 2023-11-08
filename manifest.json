@@ -3,7 +3,7 @@
   "description": "Center the content of the frequently used web pages.",
   "manifest_version": 2,
   "name": "Fox in the middle",
-  "version": "0.1.40",
+  "version": "0.1.50",
   "homepage_url": "https://github.com/agiUnderground/fox-in-the-middle",
   "icons": {
     "48": "icons/fox-in-the-middle-48.png"
@@ -61,6 +61,10 @@
     {
       "matches": ["*://man.openbsd.org/*"],
       "js": ["fox_man_openbsd_org.js"]
+    },
+    {
+      "matches": ["*://man.dragonflybsd.org/*"],
+      "js": ["fox_man_dragonflybsd_org.js"]
     }
   ]
 }
