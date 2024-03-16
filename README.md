@@ -1,6 +1,6 @@
 # fox-in-the-middle
 
-**Firefox extension which center the content of the frequently used web pages.**
+**Firefox extension, which centers the content of frequently used web pages.**
 
 # Installation
 
